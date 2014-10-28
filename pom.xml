@@ -7,7 +7,7 @@
   <name>Infinispan Tutorial: Embedded tutorial</name>
 
   <properties>
-     <version.org.infinispan>7.0.0.CR2</version.org.infinispan>
+     <version.org.infinispan>7.0.0.Final</version.org.infinispan>
   </properties>
 
   <dependencies>
